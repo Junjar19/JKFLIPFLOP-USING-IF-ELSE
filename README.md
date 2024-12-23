@@ -59,12 +59,13 @@ RegisterNumber:24008873
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
-![Screenshot 2024-12-17 141454](https://github.com/user-attachments/assets/56426d46-218e-4fcf-8966-0591c799cd65)
+![Screenshot 2024-12-10 143101](https://github.com/user-attachments/assets/f82d4381-c026-446c-9366-f849ced18a1c)
 
 TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/d631fea4-c700-4694-8fa7-8925821a0d4c)
+![Screenshot 2024-12-10 143302](https://github.com/user-attachments/assets/190c6b4c-ee46-46f0-bc38-487035df1c67)
 
 
 **RESULTS**
-Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
+          
+ Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully.
